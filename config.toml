@@ -9,6 +9,8 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 # Define the number of posts per page
 paginate = 10
 
@@ -71,8 +73,8 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "BIOS2"
+    defaultKeywords = ["ecology", "computational science", "data science", "Biodiversity"]
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
@@ -94,27 +96,23 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "a.a.m.macdonald@gmail.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Funding provided by NSERC CREATE"
 
     # Format dates with Go's time formatting
     date_format = "2 January 2006"
 
     logo = "img/logo-bios2.png"
     logo_small = "img/logo-small.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    address = """<p>
+      <br>the BIOS² Program is hosted at Universities across Canada.
+      <br>for more information please contact us!
+      <br>
+      </p>"""
+    #latitude = "-12.043333"
+    #longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -147,7 +145,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -167,7 +165,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Partners"
     subtitle = ""
 
 [params.recent_posts]
