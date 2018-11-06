@@ -1,0 +1,9 @@
+weight: 3
+title: "Applications are open now!"
+description: >
+  <ul class="list-style-none">
+    <li> Fellows can be from any participating Canadian university.</li>
+    <li>Positions are currently open for full- or part-time funded PhD students.</li>
+    <li> To apply to become a Fellow see our <a href="">Contact page</a></li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
