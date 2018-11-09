@@ -149,11 +149,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 # Training activities
 
-**Problem solving workshops**. This activity is similar to the
-synthesis groups in its function and group composition, but the call for
-proposals is run by partners. The specific objective of this
-activity is to work on applied problems and formulate potential solutions.
-
 **Mentoring program for undergrad**. We support financially undergraduate
 fellows for internships with members or partners. Undergraduate fellows are mentored by a graduate fellow, allowing the
 latter trainees to develop communication, training and other skills
