@@ -149,12 +149,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 # Training activities
 
-BIOS<sup>2</sup> will coordinate a series of activities 
-to support students developping their skills along the three training axes. 
-
-**Summer school**. BIOS<sup>2</sup> runs two summer schools in computational biodiversity science annually. The first one on *tools for open biodiversity science* will be offered in May each year by the Université de Montréal. The second one on *Biodiversity modelling* will be offered in August by the Université de Sherbrooke. Each of them comprise sessions on different techniques in computational methods, but also practical ones related to professional activities, such as legislation
-issues surrounding Open Science and Environmental impact assessments. 
-
 **Training packages**. BIOS<sup>2</sup> offers a set of
 training packages across participating institutions. These are developed and managed by members of the program and offered at the different participating institutions by fellows.  
 
