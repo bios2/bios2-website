@@ -149,8 +149,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 # Training activities
 
-**Training packages**. BIOS<sup>2</sup> offers a set of
-training packages across participating institutions. These are developed and managed by members of the program and offered at the different participating institutions by fellows.  
 
 **Mobility grants**. Fellows have access to financial support
 to enhance mobility. This money covers expenses for attending training packages offered at external institutions, internships with partners and visits to external laboratories
