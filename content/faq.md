@@ -147,13 +147,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 ========================= 
 
-# Training activities
-
-**Mentoring program for undergrad**. We support financially undergraduate
-fellows for internships with members or partners. Undergraduate fellows are mentored by a graduate fellow, allowing the
-latter trainees to develop communication, training and other skills
-for leadership. 
-
 **Continuous training**. Improving computational literacy among
 ecologists requires to reach employees already in the workplace.
 We offer the opportunity to partners to attend summer
@@ -161,9 +154,6 @@ schools, training packages, working groups and problem solving workshops.
 
 **Internship service**. We maintain a interested partners and call for proposals in order to ensure high-quality internships for
 fellows. Offers for internship are also published *here*.
-
-**Diploma in computational ecology**. BIOS<sup>2</sup> fellows will have the
-opportunity to obtain a specialization degree in computational ecology. A MSc program is offered at Université de Montréal (information *here*) and a PhD micro-program will be created at UdeS (15 credits of courses) will be offered at Université de Sherbrooke (information to come). 
 
 **Training material**. All of the training material is openly distributed and accessible via a github repository. 
 
