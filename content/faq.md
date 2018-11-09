@@ -149,10 +149,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 # Training activities
 
-**Synthesis groups**. Financial support is offered annually
-to organize synthesis groups on a particular research theme. Each working group consists of up to 7 fellows, 1 co-applicant, 1 partner and 1 invited researcher. Priority will be given to projects related to
-pressing scientific questions for partners and using open data and tools.
-
 **Problem solving workshops**. This activity is similar to the
 synthesis groups in its function and group composition, but the call for
 proposals is run by partners. The specific objective of this
