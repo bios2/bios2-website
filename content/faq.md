@@ -149,13 +149,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 
 # Training activities
 
-
-
-**Communication grants**. Fellows have access to financial support to
-develop their communication skills through participation at international
-conferences, to give academic or professional seminars in other settings and
-to cover publication fees in open access international journals.
-
 **Synthesis groups**. Financial support is offered annually
 to organize synthesis groups on a particular research theme. Each working group consists of up to 7 fellows, 1 co-applicant, 1 partner and 1 invited researcher. Priority will be given to projects related to
 pressing scientific questions for partners and using open data and tools.
