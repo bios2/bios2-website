@@ -150,9 +150,6 @@ The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting 
 # Training activities
 
 
-**Mobility grants**. Fellows have access to financial support
-to enhance mobility. This money covers expenses for attending training packages offered at external institutions, internships with partners and visits to external laboratories
-(international) to develop new professional skills. These grants could be matched by additional funding from supporting organizations such as the CIEE, the QCBS, the CEN and the UBC Biodiversity Research Centre.
 
 **Communication grants**. Fellows have access to financial support to
 develop their communication skills through participation at international
