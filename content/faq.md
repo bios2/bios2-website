@@ -152,8 +152,7 @@ ecologists requires to reach employees already in the workplace.
 We offer the opportunity to partners to attend summer
 schools, training packages, working groups and problem solving workshops.
 
-**Internship service**. We maintain a interested partners and call for proposals in order to ensure high-quality internships for
-fellows. Offers for internship are also published *here*.
+**Internship service**. 
 
 **Training material**. All of the training material is openly distributed and accessible via a github repository. 
 
