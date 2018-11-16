@@ -49,11 +49,6 @@ big data approaches in biodiversity science, produce skilled professionals to
 work on biodiversity monitoring needs and allow Canadian HQP to compete with
 international trainees in biodiversity science.
 
-### Objectives
-
-The short term objectives of the program are to: 1) train future environmental
-problem solvers to \textbf{monitor, analyse, predict, and act} on biodiversity change issues using cutting edge computational technologies; 2) train HQP to \textbf{lead data-driven collaborative, multidisciplinary
-and cross-sectorial research} in biodiversity science; and 3) \textbf{increase the recruitment in biodiversity science} in the Canadian job market. The long-term objective is to forge a new culture of computational biodiversity science in academia, government, non-government agencies and industry.
 
 ===
 ## Research
@@ -126,35 +121,6 @@ monitoring programs, citizen science, as well as heavy industry. We will also
 be pro-active for interdisciplinary research with two non-NSE targeted
 fellowships on "citizen science", in collaboration with the Regroupement
 Québec Oiseaux and the Insectarium de Montréal.
-
-===
-## Governance
-
-### summary paragraph
-
-### executive committee (role and participants)
-
-### training committee (role and participants)
-
-### advisory committee (role and participants)
-
-===
-## Diversity and inclusivity
-
-BIOS<sup>2</sup> fully endorse and follow the diversity and inclusivity statement of the Canadian Society of Ecology and Evolution, which reads as follow: 
-
-The Canadian Society for Ecology and Evolution (CSEE) is committed to promoting the study of ecology and evolution in Canada and globally, to raising public awareness of the importance of these fields, and to facilitating and expanding communication between CSEE members, policy-makers, granting councils and other stakeholders. Our Society embraces diversity and inclusivity and believes that all members, council members, visitors, and event participants deserve to be treated with respect, dignity and kindness and will treat others in the same manner. CSEE will not tolerate discrimination against members of any form, including discrimination based on age, cultural background, ethnicity, gender identity or expression, national origin, physical or mental difference, political affiliation, pregnancy or parental role, race, religion, sexual orientation, or socio-economic circumstance. CSEE recognizes that all of our members have roles to play in promoting diversity and encouraging inclusivity in Society activities, including annual member meetings, council meetings, and through committees and to help ensure that voices of underrepresented communities are heard within our society. CSEE is committed to proactively promoting a culture of equity, diversity, and inclusivity through implementation of our standing rules, committee work, and by identifying and tackling barriers to participationof its members.
-
-========================= 
-
-**Continuous training**. Improving computational literacy among
-ecologists requires to reach employees already in the workplace.
-We offer the opportunity to partners to attend summer
-schools, training packages, working groups and problem solving workshops.
-
-**Internship service**. 
-
-**Training material**. All of the training material is openly distributed and accessible via a github repository. 
 
 
 ========================= 
