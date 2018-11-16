@@ -7,7 +7,7 @@ keywords = ["people","How do I","questions","what if"]
 The team leading this project is a diverse group of academics, government employees and the private sector.
 
 ===
-## Collaborative and interdisciplinar team
+## Collaborative and interdisciplinary team
 
 The challenge of sustainable development in Canada requires an
 interdisciplinary approach, with an eye towards job security, protection of
