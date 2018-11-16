@@ -3,8 +3,6 @@ title = "Code of Conduct"
 description = "Document clearly stating the expected conduct for members of BIOS², and identifying the people responsible in case of any incident"
 +++
 
-# Code of conduct
-
 Science is hard, and the work of making sure science isn't harder than it must be is a shared responsability. We create our culture, and within the BIOS² program **our culture is inclusive**.
 
 We value the participation of every member of our community and want to ensure an that every Fellow and collaborator has a **positive, educational experience** unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any BIOS² training activity, module or project is expected to show respect and courtesy to other community members at all times.
@@ -31,7 +29,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 **Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.**
 
-Members of the BIOS² community who violate these rules - no matter how much they have contributed, or how specialised their skill set - will be approached by one of the contact people listed below. If inappropriate behaviour persists after a discussion with Timothée, the issue will be escalated according to procedures laid out by the relevant entities at UdeM , UdeS, or the member's home institution.
+Members of the BIOS² community who violate these rules - no matter how much they have contributed, or how specialised their skill set - will be approached by one of the contact people listed below. If inappropriate behaviour persists after a discussion with one of these contact people, the issue will be escalated according to procedures laid out by the relevant entities at UdeM , UdeS, and/or the member's home institution.
 
 **To report an issue** you can contact:
 - [Timothée Poisot](mailto:timothee.poisot@umontreal.ca)
