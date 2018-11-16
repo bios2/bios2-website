@@ -2,8 +2,8 @@ weight: 3
 title: "Applications are open now!"
 description: >
   <ul class="list-style-none">
-    <li> train future environmental problem solvers to \textbf{monitor, analyse, predict, and act}</li>
-    <li> train biodiversity scientists to \textbf{lead data-driven collaborative, multidisciplinary and cross-sectorial research} </li>
-    <li> \textbf{Increase the recruitment in biodiversity science} in the Canadian job market. </li>
+    <li> train future environmental problem solvers to <b>monitor, analyse, predict, and act</b></li>
+    <li> train biodiversity scientists to <b>lead data-driven collaborative, multidisciplinary and cross-sectorial research</b> </li>
+    <li> <b>Increase the recruitment in biodiversity science</b> in the Canadian job market. </li>
   </ul>
 image: "img/carousel/template-easy-code.png"
