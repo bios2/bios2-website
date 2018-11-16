@@ -1,10 +1,10 @@
 +++
-title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
+title = "Research"
+description = "Description of our research goals"
+keywords = ["Research", "objectives"]
 +++
 
-
+<!--
 ## About
 
 How can we use biodiversity information to ensure that Canadian society
@@ -43,10 +43,7 @@ required to develop the culture of ’computational biodiversity science’
 big data approaches in biodiversity science, produce skilled professionals to
 work on biodiversity monitoring needs and allow Canadian HQP to compete with
 international trainees in biodiversity science.
-
-
-===
-## Research
+-->
 
 The primary objective of the  BIOS<sup>2</sup> research program is to enhance the
 capacity of Canadian organizations to evaluate the status of biodiversity and
@@ -97,6 +94,3 @@ decision-making. This objective will support projects that aim at co-designing
 user-friendly tools with partners and train professionals in their usage (see
 e.g.[30] for an example). This includes software development, implementing
 visualization and communication tools, as well as documentation. 
-
-
-
