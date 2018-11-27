@@ -1,5 +1,5 @@
 +++
-title = "Code of Conduct"
+title = "BIOS² values and code of conduct"
 description = "Document clearly stating the expected conduct for members of BIOS², and identifying the people responsible in case of any incident"
 +++
 

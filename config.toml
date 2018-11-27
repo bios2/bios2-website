@@ -102,7 +102,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "a.a.m.macdonald@gmail.com"
+    #email = "a.a.m.macdonald@gmail.com"
 
     about_us = "<p>BIOS² will enhance the capacity of Canadian organizations to measure and make decisions with biodiversity data. We do this by training Fellows in biodiversity science and through partnering with various organizations. Our long-term objective is to forge a new culture of computational biodiversity science in academia, government, non-government agencies and industry.</p>"
     copyright = "Funding provided by NSERC CREATE"
