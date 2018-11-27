@@ -5,12 +5,6 @@ id = "contact"
 
 # Apply to become a BIOS² Fellow!
 
-Applications are open now for Fellows at the Master's and PhD levels. Please fill in the form below! 
-
-========================= 
-
-# Getting involved
-
 Developing a culture of computational biodiversity science is a team effort! 
 Our program will involve students, researchers and partners.
 Our motivation with this training program is to recruit the best students and
