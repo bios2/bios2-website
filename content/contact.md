@@ -13,10 +13,15 @@ We want to
 make sure that all researchers, partners and Fellows are excited to contribute to this inclusive and interdisciplinary project.
 We welcome anyone who is committed to biodiversity science, improved training with numerical methods, and believes in collaborative research. 
 
+## Fellows 
+
+Any graduate student supervised or co-supervised by an academic Member can apply to be a BIOS² Fellow. Fellows have access to all training activities and financial support, including scholarships, travelling grants and workshops.  
+Every fellow is expected to participate in at least one internship per year with Partners. During their Fellowship they should also participate in one Synthesis group or problem solving workshop. 
+
 ## Academic members  
 
-If you are a permanent researcher in biodiversity science, you can become a Member of BIOS² and accessn all of our resources, including funding, training activities and material. 
-To do so, please submit a letter of motivation detailing your commitment to contributing to the collaborative training activites both in terms of content and administration.  This would require you to develop or maintain one training package per year. Members should also be willing to work with specific partners and make sure their students have constructive internship experiences.
+If you are a researcher in biodiversity science, you can become a Member of BIOS² and access all programs resources, including funding, training activities and material. 
+To do so, please submit a letter of motivation detailing your contribution to the collaborative training activites both in terms of content and administration.  This would require you to develop or maintain one training package per year. Members should also be willing to work with specific partners and make sure their students have constructive internship experiences.
 
 <!--
 Any permanent researchers from an academic institution can be member of the training program and
@@ -31,14 +36,10 @@ government (local, regional, provincial, federal), NGOs, biodiversity
 monitoring programs, citizen science, as well as heavy industry.
 Collaborative members contribute to the training activities, either as monitors (e.g. host for internship), collaborators (e.g. participation in workshops) or as trainees (e.g. summer school or training package). 
 
-## Fellows 
-
-Any graduate student supervised or co-supervised by an academic Member can apply to be a BIOS² Fellow. Fellows have access to all training activities and financial support, including scholarships, travelling grants and workshops.  
-Every fellow is expected to participate in at least one internship per year with Partners. During their Fellowship they should also participate in one Synthesis group or problem solving workshop. 
 
 ## Guest students
 
-**Any student motivated by the use of computational tools for open biodiversity science** is welcome to participate to the program. Students not supervised or co-supervised by an academic member of the program can also participate in training packages and also apply for guest training grants to register at the summer schools. 
+**Any student motivated by the use of computational tools for open biodiversity science** is welcome to participate to the program. Students not supervised or co-supervised by an academic member of the program can nevertheless participate in training packages and also apply for guest training grants to register at the summer schools. 
 
 ## Guest participants
 
