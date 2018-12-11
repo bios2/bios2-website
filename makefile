@@ -5,6 +5,8 @@ STAT=static/*
 TH=themes/*
 SITE=public
 
+.PHONY: server clean
+
 $(SITE): $(DATA) $(CONT) $(STAT) $(TH)
 	Rscript -e 'blogdown::build_site()'
 	cd $(SITE) && lftp ftp://ammd.bios2.03832@bios2.recherche.usherbrooke.ca -e "mirror -e -R ; quit"
