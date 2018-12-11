@@ -1,15 +1,17 @@
 # Inspired from https://github.com/TheoreticalEcosystemEcology/jekyll_ieLab/blob/master/makefile
-DATA=data/*
-CONT=content/*
-STAT=static/*
-TH=themes/*
-SITE=public
+DATA=data
+CONT=content
+STAT=static
+TH=themes
+FILES := $(shell find $(DATA) $(CONT) $(STAT) $(TH) -type f)
 
-.PHONY: server clean
+.PHONY: server clean deploy
 
-$(SITE): $(DATA) $(CONT) $(STAT) $(TH)
+deploy: site
+	lftp ftp://ammd.bios2.03832@bios2.recherche.usherbrooke.ca -e "mirror -e -R public ; quit"
+
+site: $(FILES)
 	Rscript -e 'blogdown::build_site()'
-	cd $(SITE) && lftp ftp://ammd.bios2.03832@bios2.recherche.usherbrooke.ca -e "mirror -e -R ; quit"
 
 server:
 	Rscript -e 'blogdown::serve_site()'
