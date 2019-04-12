@@ -3,6 +3,13 @@ title = "Contact"
 id = "contact"
 +++
 
+## The BIOS<sup>2</sup> Organizational Team
+
+**Kim Gauthier-Schampaert** Is the program administrator, in charge of logistics and finances. <a href="mailto:Kim.Gauthier.Schampaert@usherbrooke.ca">Email Kim</a>  
+
+**Andrew MacDonald** Is the Program coordinator, assisting with program content. <a href="mailto:a.a.m.macdonald@gmaill.com">Email Andrew</a>
+
+
 # Apply to become a BIOS² Fellow!
 
 Developing a culture of computational biodiversity science is a team effort! 
