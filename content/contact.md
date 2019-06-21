@@ -3,6 +3,11 @@ title = "Contact"
 id = "contact"
 +++
 
+
+# Applications are now open for 2019 BIOS<sup>2</sup> Fellows!
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=7O9-0kcq50uYHg-Jd_ox2P6-e1ryuWJAvN57hHz5s8FURUhWWEMwVzVMNVRIWklBUkU3UlhETDAzNy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 ## The BIOS<sup>2</sup> Organizational Team
 
 **Kim Gauthier-Schampaert** Is the program administrator, in charge of logistics and finances. <a href="mailto:Kim.Gauthier.Schampaert@usherbrooke.ca">Email Kim</a>  
@@ -51,5 +56,3 @@ Collaborative members contribute to the training activities, either as monitors 
 ## Guest participants
 
 Guest training grants will be made available to invite students outside of the program participating to the different summer schools offered by the program. 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB8d43_W2HchXVAxok4NF_qg-zS0hAY24Rz2oM2j5zndqFkw/viewform?embedded=true" width="640" height="2969" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
